@@ -1,0 +1,12 @@
+.innerBox {
+    padding: 16px;
+    background-color: #ccc;
+    margin: 8px;
+}
+
+.container {
+    background-color: blue;
+    height: 200px;
+    display: flex;
+    align-items: flex-end;
+}

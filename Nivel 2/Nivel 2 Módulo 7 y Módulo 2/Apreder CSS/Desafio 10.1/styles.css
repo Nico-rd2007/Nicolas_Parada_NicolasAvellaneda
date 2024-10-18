@@ -1,0 +1,23 @@
+#body {
+    background-color: blue;
+padding: 32px;
+
+}
+#container{
+    border: 1px solid white;
+color: white;
+padding: 8px 16px;
+
+}
+#header{
+    margin: 0;
+}
+#bold-text{
+    font-weight: bold;
+border: 1px solid white;
+padding: 2px 4px;
+
+}
+#list-item{
+    margin-bottom: 16px;
+}

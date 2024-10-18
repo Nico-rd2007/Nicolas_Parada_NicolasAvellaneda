@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <!-- Write code below this line -->
+
+        <form action="https://jsonplaceholder.typicode.com/" method="POST" id="practiceForm">
+
+        </form>
+        
+        <label for="primerNombre"> ingresa tu nombre: </label>
+        <input type="text" id="primerNombre" name="primerNombre" placeholder="nombre">
+        <br> <br>
+        <label for="apellido"> ingresa tu apellido:  </label>
+        <input type="text" id="apellido" name="apellido" placeholder="apellido">
+        <br> <br> 
+        <label for="email"> ingresa tu email: </label>
+        <input type="email" id="email" name="email" placeholder="email">
+        <br> <br>
+        <label for="edad"> ingresa tu edad </label>
+        <input type="number" id="edad" min="0" max="100" placeholder="edad">
+        <br> <br>
+        <label for="genero"> ingresa tu genero </label>
+        <input type="radio" id="genero" name="model" value="genero"> Hombre 
+        <input type="radio" id="genero" name="model" value="genero"> Mujer
+        <br> <br>
+        <label for="satisfaccion"> Cuan de satisfecho estas con el producto? </label>
+        <input type="range" id="satisfaccion" name="volume" min="0" max="100">
+        <br> <br>
+        <form action="https://mail.google.com/" method="POST">
+            
+            <input type="submit" value="Submit Form" id="submit">
+
+        </form>
+    </body>
+</html>

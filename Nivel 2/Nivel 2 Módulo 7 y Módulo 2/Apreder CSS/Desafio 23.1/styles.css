@@ -1,0 +1,6 @@
+#box {
+    padding: 8px;
+    background-color: #eee;
+    border: 1px solid black;
+    border-radius: 2px 4px 2px 8px;
+}

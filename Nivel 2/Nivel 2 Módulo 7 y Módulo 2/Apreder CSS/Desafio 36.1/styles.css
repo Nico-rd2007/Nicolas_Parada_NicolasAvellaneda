@@ -1,0 +1,12 @@
+.innerContainer{
+    padding: 16px;  
+    margin: 8px;
+    align-items: center;
+    justify-content: center;
+
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

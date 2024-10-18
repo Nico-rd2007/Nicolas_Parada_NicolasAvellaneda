@@ -1,0 +1,9 @@
+.innerBox {
+    padding: 16px;
+    background-color: #ccc;
+    margin: 8px;
+}
+.container{
+    display: flex;
+    flex-direction: row-reverse;
+}

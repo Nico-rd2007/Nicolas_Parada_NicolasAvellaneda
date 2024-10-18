@@ -1,0 +1,49 @@
+#b1 {
+    height: 80px;
+    text-align: center;
+    background-color: black;
+    
+    width: 70px;
+    height: 80px;
+}
+
+#b8 {
+    width: 40px;
+    text-align: center;
+    
+    
+}
+#b3{
+    color: red;
+    
+}
+
+#b2{
+    font-family: cursive;
+    color: white;
+}
+
+#b4{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+#b5{
+    border: solid 1px;
+    color: white;
+    margin: 3px 3px;
+}
+
+#b6{
+    border: solid 1px;
+    color: white;
+    margin: 3px 3px;
+}
+
+#b7{
+    border: solid 1px;
+    color: white;
+    margin: 3px 3px;
+}
