@@ -77,11 +77,12 @@ input{
     height: 25px;
     float: right;
 }
-#extrella{
-    width: 100px;
-    height: 30px;
-    float: right;
-}
+
 #precio1{
     text-align: right;
+}
+.star {
+    font-size: 30px;
+    cursor: pointer;
+    color: #ddd;
 }
